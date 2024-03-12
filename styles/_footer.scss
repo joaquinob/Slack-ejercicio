@@ -1,0 +1,15 @@
+.footer{
+    height: 20vh;
+
+    &_subtitle{
+    display: flex;
+    justify-content: center;
+    }
+    &_div{
+        margin-left: 25%;
+    
+        &-img{
+        margin-left: 40px;
+        }
+    }
+}
